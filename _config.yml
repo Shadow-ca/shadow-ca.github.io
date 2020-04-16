@@ -1,9 +1,9 @@
 # --- General options --- 
 # Name of website
-title: Qi
+title: shadow计算机协会
 
 # Short description of your site
-description: Tips
+description: 
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -22,7 +22,6 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - shadowsocksr: "https://hello-shudong.com/auth/register?code=ZyondKIUQdYAVVp1mrqMtA1Ip13LOL5W"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "233333"
 
