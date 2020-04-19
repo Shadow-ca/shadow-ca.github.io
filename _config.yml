@@ -66,11 +66,11 @@ footer-link-col: "#404040"
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: flase
-  email: "dsgbtbz@gmail.com"
-  facebook: iqmxz
-  github: qmxz
-  twitter: qmxz
+#  rss: flase
+  email: "shadowca@foxmail.com"
+#  facebook: iqmxz
+  github: shadow-ca
+#  twitter: qmxz
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
