@@ -10,5 +10,5 @@ categories: ''
 [BaiduPCS-Go](https://gitee.com/mirrors/BaiduPCS-Go)  
 是一个很好的解决方案
 网站自带详细教程，我就分享一下就完事
-![sudu](https://www.dropbox.com/s/194rmnkwtll1sft/speed.png)  
+大概有个十几兆的速度，也够用了  
 以上.
