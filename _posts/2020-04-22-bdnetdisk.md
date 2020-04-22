@@ -9,6 +9,6 @@ categories: ''
 答案当然是有的  
 [BaiduPCS-Go](https://gitee.com/mirrors/BaiduPCS-Go)  
 是一个很好的解决方案
-网站自带详细教程，我就分享一下就完事
+网站自带详细教程，我就分享一下就完事  
 大概有个十几兆的速度，也够用了  
 以上.
