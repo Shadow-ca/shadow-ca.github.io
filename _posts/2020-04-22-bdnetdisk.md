@@ -10,5 +10,5 @@ categories: ''
 [BaiduPCS-Go](https://gitee.com/mirrors/BaiduPCS-Go)  
 是一个很好的解决方案
 网站自带详细教程，我就分享一下就完事
-![Image Title](https://www.dropbox.com/s/194rmnkwtll1sft/speed.png?dl=0)  
+![sudu](https://www.dropbox.com/s/194rmnkwtll1sft/speed.png)  
 以上.
