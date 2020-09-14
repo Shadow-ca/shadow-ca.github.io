@@ -10,5 +10,9 @@ categories: ''
 [BaiduPCS-Go](https://gitee.com/mirrors/BaiduPCS-Go)  
 是一个很好的解决方案  
 网站自带详细教程，我就分享一下就完事  
-大概有个十几兆的速度，也够用了  
+大概有个十几兆的速度，也够用了 
+新的解决方案增加了
+[kinhdown](http://kinhdown.kinh.cc/) 
+原理为aira2+百度云盘直链获取
+能跑满带宽
 以上.
